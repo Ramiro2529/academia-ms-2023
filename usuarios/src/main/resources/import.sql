@@ -1,0 +1,2 @@
+INSERT INTO users (user_id, name, last_name, age, email, first_register_date, last_updated_date) VALUES (1,"Ramiro", "Alvarez", "26", "ramitas1597@gmail.com","2022-08-25 03:44:35.000000","2022-08-25 03:44:35.000000");
+INSERT INTO users (user_id, name, last_name, age, email, first_register_date, last_updated_date) VALUES (2,"Axel", "Alvarez", "24", "axel@gmail.com","2022-08-25 03:44:35.000000","2022-08-25 03:44:35.000000");
